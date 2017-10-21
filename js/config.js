@@ -44,11 +44,11 @@ Place one or more images
 Multiple images will automatically shuffle between them*/
 var l_bgImages = [
 	"backgrounds/images/lilpump.png",
-	"backgrounds/images/lilpump1.png",
-	"backgrounds/images/lilpump2.png",
-	"backgrounds/images/lilpump3.png",
-	"backgrounds/images/lilpump4.png",
-	"backgrounds/images/lilpump5.png"
+	"backgrounds/images/lilpump1.jpg",
+	"backgrounds/images/lilpump2.jpg",
+	"backgrounds/images/lilpump3.jpg",
+	"backgrounds/images/lilpump4.jpg",
+	"backgrounds/images/lilpump5.jpg"
 ];
 
 /*Random background images order?*/
